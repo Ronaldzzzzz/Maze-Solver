@@ -3,7 +3,7 @@
 This project uses `wall-follower` and `A*` algorithms to solve the maze problem implemented by python, and compares the efficiency of two algorithms.
 This is a final project for CS 572 Heuristic Problem.
 
-![image]()
+![image](https://github.com/Ronaldzzzzz/Maze-Solver/blob/main/image/image.jpg)
 
 ## Technologies
 
@@ -36,7 +36,7 @@ For example, point `X` is located on `(0, 0)` in the maze, which is the left top
 In the `maze.py`, which is the main file, there is a maze array for build the maze.
 The martix uses binary to indicate the wall for each node.
 
-![node]()
+![node](https://github.com/Ronaldzzzzz/Maze-Solver/blob/main/image/node.jpg)
 
 For example, the node has two walls, top and left.
 Starting from the top, and clockwise to left, each wall represents a bit for binary.
@@ -59,8 +59,8 @@ Use the value of the x-axis and y-axis to access the point table then we can get
 * Solution cost
 Use a global variable to count the girds the agent traversed.
 
-![state]()
+![states](https://github.com/Ronaldzzzzz/Maze-Solver/blob/main/image/states.jpg)
 
 ## Conclusion
 
-![result]()
+![result](https://github.com/Ronaldzzzzz/Maze-Solver/blob/main/image/result.jpg)
